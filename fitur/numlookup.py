@@ -1,11 +1,19 @@
+"""
+Ini hanya mainan bukan aseli yagesya
+silakan rekod aja
+"""
+
 import phonenumbers
 from phonenumbers import geocoder, carrier, timezone
+# import requests
 from time import sleep as turu
 import os
 import sys
 from colorama import Fore, init, Style
 
 init()
+
+# api = ''
 
 merah = Fore.RED
 kuning = Fore.YELLOW
@@ -40,6 +48,7 @@ kode_area_provinsi = {
     '022': 'Bandung',
     '031': 'Surabaya',
     '061': 'Medan',
+  # tambahin lagi kode area lu
 }
 
 def cek_nomor_telepon(phone_number):

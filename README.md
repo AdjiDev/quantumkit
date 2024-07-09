@@ -21,3 +21,6 @@ python adji.py
 ```
 
 _**More features soon!**_
+
+
+`ADJI DEV 2024`

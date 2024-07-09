@@ -20,4 +20,4 @@ pip install module.txt
 python adji.py
 ```
 
-_**More features soon!*_
+_**More features soon!**_

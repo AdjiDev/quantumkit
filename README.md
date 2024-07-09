@@ -13,7 +13,7 @@
 - install python module
 ```sh
 cd quantum kit
-pip install module.txt
+pip install -r module.txt
 ```
 - run
 ```
